@@ -1,3 +1,7 @@
-image1{
-    blur: 1px;
+image{
+    blur:0;
+    brightness: 1;
+    resize:  737,480;
 }
+
+
